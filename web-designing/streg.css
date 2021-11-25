@@ -1,0 +1,13 @@
+.mydiv{
+            text-align: center;
+            background-color: rgb(7, 248,168);
+            border: 3px;
+        }
+.header{
+        text-align: center;
+        padding: left 1px;
+        }
+.footer{
+        text-align: center;
+        background-color: grey;
+        }
