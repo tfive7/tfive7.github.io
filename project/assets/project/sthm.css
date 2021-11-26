@@ -1,0 +1,31 @@
+.header{
+    text-align:right;
+    color: darkviolet;
+
+}
+h1{
+
+    text-align: center;
+    background-color:rgb(230, 109, 78);
+    border: 3px;
+}
+.body{
+    background-color: rgb(148, 250, 79);
+    color: rgb(0, 48, 119);
+    }
+
+        
+    .container
+    {
+        color:rgb(0, 16, 156)
+    }
+.footer{
+    text-align: center;
+    color: black;
+    background-color:rgb(182, 199, 216);font-size: xx-small;
+        }
+.submit{
+        background-color: darksalmon;
+        MARGIN-left:43%;  
+        }
+    

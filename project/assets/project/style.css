@@ -1,0 +1,34 @@
+.mydiv
+                {
+                    text-align: center;
+                    border: 3px;
+                }
+.submit
+{
+    background-color: darksalmon;
+    
+}
+.form{
+    align-content: center;
+    
+}
+
+footer{
+    text-align: center;
+    background-color: grey;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+
+    }
+    .foot{
+        font-size: 17px;
+    }
+h1{
+
+    text-align: center;
+    background-color: rgb(3, 233, 156);
+    border: 3px;
+    font-size: 30px;
+
+}
